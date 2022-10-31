@@ -6,9 +6,9 @@ import Furniture from './components/FurnitureList';
 function App() {
   return (
     <div className="App">
-     <Header /> 
-     <Footer/>
+     <Header/> 
      <Furniture/>
+     <Footer/>
 
     </div>
   );
